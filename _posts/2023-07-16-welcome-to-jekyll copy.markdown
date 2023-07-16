@@ -7,4 +7,7 @@ categories: [Jekyll Paper]
 tags: [Getting Start]
 ---
 
-I LOVE YOU
+git status
+git add .
+git commit -m"내용"
+git push origin master
