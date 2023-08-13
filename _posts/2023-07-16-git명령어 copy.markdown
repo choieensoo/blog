@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll Paper!"
-date:   2018-02-11  
-last_modified_at: 2018-09-20
+title:  "git명령어"
+date:   2023-07-16
+last_modified_at: 2023-07-16
 categories: [Jekyll Paper]
 tags: [Getting Start]
 ---
