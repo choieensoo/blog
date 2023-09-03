@@ -1,21 +1,25 @@
 ---
-layout: post
-title:  "형변환 "
-date:   2023-08-27
-last_modified_at: 2023-08-27
-categories: [Jekyll Paper]
-tags: [Getting Start]
+layout: post  
+title:  "형변환 "  
+date:   2023-08-27  
+last_modified_at: 2023-08-27  
+categories: [Jekyll Paper]  
+tags: [Getting Start]  
 ---
-형변환:type을 변환한다
-예시문장:
-double -> int
-double number =3.0;
+형변환:type을 변환한다  
+예시문장:  
 
-int number2 = (int) number;
-System.out.println(number2);
+```java  
+double -> int  
+double number =3.0;  
+
+int number2 = (int) number;  
+System.out.println(number2);  
 //int -> float
 
-float number3 = (float) number2;
-System.out.println(number3);
+float number3 = (float) number2;  
+System.out.println(number3);  
+```
+
 //형변환
 ---
