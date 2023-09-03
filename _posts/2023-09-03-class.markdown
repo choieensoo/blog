@@ -1,0 +1,43 @@
+---
+layout: post  
+title:  "class "  
+date:   2023-09-03  
+last_modified_at: 2023-09-03  
+categories: [Jekyll Paper]  
+tags: [Getting Start]  
+---
+---
+예시 클래스
+---
+```
+//Car 클래스
+public class Car {
+        String type;
+        int price;
+        String brand;
+}
+//Food 클래스
+```
+
+```java  
+  //객체생성
+        //Car클래스의 a7이라는 객체 생성
+        Car a7 = new Car();
+        a7.type="diesel";
+        a7.brand="audi";
+        a7.price=10000000000;
+
+        System.out.println("a7의 엔진타입 "+a7.type);
+        System.out.println("a7의 브랜드 "+a7.brand);
+        System.out.println("a7의 가겨 "+a7.price);
+
+        //객체 생성
+        //Car클래스의 sclass객체 생성
+        Car sclass=new Car();
+        sclass.type = "Gasoline";
+        sclass.brand="benz";
+        scalss.price=2000000000;  
+```
+
+//class
+---
