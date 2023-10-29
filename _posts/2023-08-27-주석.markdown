@@ -7,8 +7,9 @@ categories: [Jekyll Paper]
 tags: [Getting Start]
 ---
 
-
+```java 
 한줄 주석 -> //
 전체 주석 -> /* */
+```
 
 ---

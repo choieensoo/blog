@@ -6,6 +6,7 @@ last_modified_at: 2023-08-27
 categories: [Jekyll Paper]
 tags: [Getting Start]
 ---
+```java
  Scanner a = new Scanner(System.in); <~ a 입력
         Scanner b = new Scanner(System.in); <~ b 입력
         int c = a.nextInt(); <~ c에다가 a 넣기
@@ -13,9 +14,9 @@ tags: [Getting Start]
         int i;
         if(c>d){
             for(i=0;i<c;i++);
-            System.out.println(c); <~ c가 d 보다 클때 c까지반복후 출력ㅛ
+            System.out.println(c); <~ c가 d 보다 클때 c까지반복후 출력
         }else {
             for(i=0;i<d;i++);
             System.out.println(d); <~ 그게 아니라면 d 출력
-
+```
 ---

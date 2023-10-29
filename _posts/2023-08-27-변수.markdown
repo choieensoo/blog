@@ -6,7 +6,7 @@ last_modified_at: 2023-08-27
 categories: [Jekyll Paper]
 tags: [Getting Start]
 ---
-
+```java
 alue 변수기초!
 
    기본형
@@ -14,12 +14,14 @@ alue 변수기초!
    실수형 : double, float
    문자형 : char
    논리형 : boolean
+```
 
+```java
 byte number1 = 111;
 //byte는 128 이상 x
 short number2 = 11111;
 int number3 = 1111111111;
-long number4 = 1111111111111111111l;
+long number4 = 11111111111111111111;
 
 double number5 = 2.0;
 double number6 = 3.148;
@@ -30,5 +32,5 @@ char character = 'A';
 
   char c3 = '가'; 문자저장
   char c4 = 44032; 유니코드 직접 저장
-
+```
 ---
