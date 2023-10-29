@@ -6,6 +6,7 @@ last_modified_at: 2023-08-27
 categories: [Jekyll Paper]
 tags: [Getting Start]
 ---
+```java
 ls : list의 약자 / 디랙토리 안에 있는 내용을 확인  
 ls all : 디랙토리 안에 있는 내용 모두 출력
 ls long : 자세한 내용 출력(퍼미션, 파일 수, 소유자, 그룹, 파일크기, 수정일자, 파일이름)  
@@ -18,5 +19,6 @@ cd /window : window 디랙토리로 이동
 cd .. : 상위 디랙토리로 이동  
 cd ~ : 이전 디랙토리로 이동  
 pwd - print working directory  
+```
 
----
+--- 
